@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![hippo](https://media.giphy.com/media/11StaZ9Lj74oCY/giphy.gif)
 <!--
 **dev7ch/dev7ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
